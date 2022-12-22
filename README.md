@@ -3,7 +3,7 @@
 - 🔭 I’m now studying Computer Engineering at Universidade Federal do Espirito Santo since 2022
 - 🌱 I’m currently learning C/C++
 
-<div>
+<div align="center">
   <a href="https://github.com/vitordcgomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitordcgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordcgomes&layout=compact&langs_count=7&theme=dracula"/>
