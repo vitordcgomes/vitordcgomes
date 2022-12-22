@@ -1,7 +1,8 @@
 ## Hi, welcome! I'm Vitor Dadalto Câmara Gomes 👋
 
-- 🔭 I’m now studying Computer Engineering at Universidade Federal do Espirito Santo since 2022
-- 🌱 I’m currently learning C/C++
+- 🧑‍🎓 Computer Engineering student at Universidade Federal do Espirito Santo since 2022
+- 😃 18 y/o
+- 🌱 Currently learning C/C++
 
 <div align="center">
   <a href="https://github.com/vitordcgomes">
