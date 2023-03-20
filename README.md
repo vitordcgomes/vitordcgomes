@@ -22,7 +22,7 @@
 <div>
  
   <a href = "mailto:vitordcgomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-dadalto-c%C3%A2mara-gomes-3b1770268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitordadaltocg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/vitordcgomes/vitordcgomes/blob/output/github-contribution-grid-snake.svg)
  
