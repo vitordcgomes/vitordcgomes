@@ -2,7 +2,7 @@
 
 - 💻🎓 I'm studying Computer Engineering at [Universidade Federal do Espirito Santo](https://www.ufes.br/institui%C3%A7%C3%A3o) since 2022
 - 😃 19 y/o
-- 🌱 Currently learning C & Javascript
+- 🌱 Currently learning Java and webdev
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitordcgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
