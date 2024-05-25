@@ -2,11 +2,11 @@
 
 - 💻🎓 I'm studying Computer Engineering at [Universidade Federal do Espirito Santo](https://www.ufes.br/institui%C3%A7%C3%A3o) since 2022
 - 😃 19 y/o
-- 🌱 Currently learning Java and webdev
+- 🌱 Currently learning python and machine learning
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitordcgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordcgomes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordcgomes&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -14,6 +14,9 @@
   <img align="center" alt="Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> 
+  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="VSC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  </div>
 
