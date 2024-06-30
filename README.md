@@ -1,7 +1,7 @@
 ## Hi, welcome! I'm Vitor 👋
 
 - 💻🎓 I'm studying Computer Engineering at [Universidade Federal do Espirito Santo](https://www.ufes.br/institui%C3%A7%C3%A3o) since 2022
-- 😃 19 y/o
+- 😃 20 y/o
 - 🌱 Currently learning python and machine learning
 
 <div align="center">
