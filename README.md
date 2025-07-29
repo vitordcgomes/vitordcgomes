@@ -1,8 +1,8 @@
 ## Hi, welcome! I'm Vitor 👋
 
 - 💻🎓 I'm studying Computer Engineering at [Universidade Federal do Espirito Santo](https://www.ufes.br/institui%C3%A7%C3%A3o) since 2022
-- 😃 20 y/o
-- 🌱 Currently learning python and machine learning
+- 😃 21 y/o
+- 🌱 Currently working with AI in healthcare in a scientific initiation research at [LIFE](https://life.inf.ufes.br/)  
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitordcgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
