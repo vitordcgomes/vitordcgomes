@@ -1,13 +1,16 @@
 ## Hi, welcome! I'm Vitor 👋
 
-- 💻🎓 I'm studying Computer Engineering at [Universidade Federal do Espirito Santo](https://www.ufes.br/institui%C3%A7%C3%A3o) since 2022
-- 😃 21 y/o
-- 🌱 Currently working with AI in healthcare in a scientific initiation research at [LIFE](https://life.inf.ufes.br/)  
+- 🎓🇧🇷 Computer Engineering student at [Universidade Federal do Espirito Santo (UFES)](https://informatica.ufes.br/pt-br/graduacao/engcomp/sobre-o-curso).
+- 🎓🇫🇷 Pursuing a Master of Science in Engineering (Diplôme d'Ingénieur) at [IMT Atlantique](https://www.imt-atlantique.fr/en), France.
+- 📡 Currently focusing on [Observation and Processing for Environmental data (TAF OPE)](https://moodle.imt-atlantique.fr/course/view.php?id=928)
+  - 🌱 Studying sensor systems, wave propagation, signal & image processing, data processing, and applied Machine Learning.
+  - 🛰️ Exploring radar, LiDAR, sonar, remote sensing, 2D/3D imaging, embedded sensors, and robotics.
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitordcgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordcgomes&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="150em" src="./profile/stats.svg"/>
+  <img height="150em" src="./profile/top-langs.svg"/>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
