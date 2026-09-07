@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
+          options: username=vitordcgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dracula
+          options: username=vitordcgomes&layout=compact&langs_count=6&theme=dracula
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
